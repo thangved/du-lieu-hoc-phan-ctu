@@ -20,7 +20,7 @@ https://minhthangdev-server.herokuapp.com/api/courses/search/
 
 https://minhthangdev-server.herokuapp.com/api/courses/search/K
 
-### Respone:
+### Response:
 
 ```
 [
@@ -49,7 +49,7 @@ https://minhthangdev-server.herokuapp.com/api/courses/key/
 
 https://minhthangdev-server.herokuapp.com/api/courses/key/CT100?y=20212022&n=1
 
-### Respone:
+### Response:
 
 ```
 [
