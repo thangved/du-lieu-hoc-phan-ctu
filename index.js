@@ -1,29 +1,18 @@
-const fs = require('fs')
-const csv = require('csv-parser')
+const CSVtoJSON = require('./js/csvToJSON')
+const getFinalData = require('./js/getFinalData')
+const getSimpleData = require('./js/getSimpleData')
 
-let rawCourses = []
+function index(path) {
 
-fs.createReadStream('./DANHSACHHOCPHANMOHK1_2021_2022 - Sheet1.csv')
-    .pipe(csv())
-    .on('data', data => {
-        try {
-            rawCourses.push(data)
-        }
-        catch {
+    CSVtoJSON(path)
 
-        }
-        let courses = []
-        let Courses = []
+    setTimeout(() => {
 
-        rawCourses.forEach(item => {
-            Courses.push(item)
-        })
-        fs.writeFile('./Courses.json', JSON.stringify(Courses), 'utf-8', (error) => {
-            if (error) {
-                console.log(error)
-            }
-        })
-    })
+        getSimpleData(path)
+        getFinalData(path)
+        
+    }, 60000)
 
+}
 
-
+index('20212022/HK2')
