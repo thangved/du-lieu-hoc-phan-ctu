@@ -1,5 +1,3 @@
-# crawData
-
 ## Dữ liệu thời khóa biểu trường ĐẠI HỌC CẦN THƠ
 
 <img src="https://upload.wikimedia.org/wikipedia/vi/thumb/6/6c/Logo_Dai_hoc_Can_Tho.svg/1024px-Logo_Dai_hoc_Can_Tho.svg.png" width="100px"/>
