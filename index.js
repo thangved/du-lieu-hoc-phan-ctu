@@ -2,17 +2,18 @@ const CSVtoJSON = require('./js/csvToJSON')
 const getFinalData = require('./js/getFinalData')
 const getSimpleData = require('./js/getSimpleData')
 
-function index(path) {
+// @path: duong dan den file csv (./csv/${path}/source.csv)
+// @end: STT cuoi cung
+function index(path, end) {
 
-    CSVtoJSON(path)
+    CSVtoJSON(path, end)
+        .then(status => {
+            console.log(status)
 
-    setTimeout(() => {
-
-        getSimpleData(path)
-        getFinalData(path)
-        
-    }, 60000)
+            getSimpleData(path)
+            getFinalData(path)
+        })
 
 }
 
-index('20212022/HK2')
+index('20212022/HK1', 6093)
