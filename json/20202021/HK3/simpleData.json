@@ -1,0 +1,1226 @@
+[
+    {
+        "name": "Thực tập thực tế",
+        "key": "AQ316"
+    },
+    {
+        "name": "Cơ lý thuyết",
+        "key": "CN101"
+    },
+    {
+        "name": "Địa chất công trình",
+        "key": "CN102"
+    },
+    {
+        "name": "Vật liệu xây dựng",
+        "key": "CN104"
+    },
+    {
+        "name": "TT. Vật liệu xây dựng",
+        "key": "CN105"
+    },
+    {
+        "name": "Sức bền vật liệu - XD",
+        "key": "CN106"
+    },
+    {
+        "name": "Cơ học lưu chất",
+        "key": "CN108"
+    },
+    {
+        "name": "Trắc địa",
+        "key": "CN110"
+    },
+    {
+        "name": "Nguyên lý quy hoạch",
+        "key": "CN119"
+    },
+    {
+        "name": "Kết cấu bê-tông cơ sở",
+        "key": "CN123"
+    },
+    {
+        "name": "Anh văn chuyên môn xây dựng",
+        "key": "CN126"
+    },
+    {
+        "name": "Hình hoạ và vẽ kỹ thuật - XD",
+        "key": "CN131"
+    },
+    {
+        "name": "Cơ lý thuyết - CK",
+        "key": "CN136"
+    },
+    {
+        "name": "Sức bền vật liệu - CK",
+        "key": "CN137"
+    },
+    {
+        "name": "Cơ sở thiết kế máy",
+        "key": "CN145"
+    },
+    {
+        "name": "Kỹ thuật số",
+        "key": "CN151"
+    },
+    {
+        "name": "Cơ học kết cấu",
+        "key": "CN154"
+    },
+    {
+        "name": "Anh văn chuyên môn - Cơ điện tử",
+        "key": "CN159"
+    },
+    {
+        "name": "Đồ án kiến trúc",
+        "key": "CN194"
+    },
+    {
+        "name": "Thực tập ngành nghề - QLCN",
+        "key": "CN220"
+    },
+    {
+        "name": "Thực tập ngành nghề - CNHH",
+        "key": "CN240"
+    },
+    {
+        "name": "Kỹ thuật sản xuất chất kết dính",
+        "key": "CN251"
+    },
+    {
+        "name": "TT. Ngành nghề cơ điện tử",
+        "key": "CN295"
+    },
+    {
+        "name": "Kết cấu thép",
+        "key": "CN305"
+    },
+    {
+        "name": "Cấp thoát nước",
+        "key": "CN307"
+    },
+    {
+        "name": "Tin học ứng dụng - Kỹ thuật 1",
+        "key": "CN331"
+    },
+    {
+        "name": "Tin học ứng dụng - Kỹ thuật 2",
+        "key": "CN332"
+    },
+    {
+        "name": "Quy hoạch đô thị",
+        "key": "CN335"
+    },
+    {
+        "name": "Luật xây dựng",
+        "key": "CN337"
+    },
+    {
+        "name": "Matlab và Labview",
+        "key": "CN341"
+    },
+    {
+        "name": "Đàn hồi ứng dụng và phương pháp phần tử hữu hạn",
+        "key": "CN343"
+    },
+    {
+        "name": "Thực tập ngành nghề cơ khí chế tạo máy",
+        "key": "CN398"
+    },
+    {
+        "name": "Thiết kế hệ thống cơ điện tử",
+        "key": "CN416"
+    },
+    {
+        "name": "Thực tập ngành nghề - CKGT",
+        "key": "CN487"
+    },
+    {
+        "name": "Đồ án kết cấu bê-tông - TC",
+        "key": "CN508"
+    },
+    {
+        "name": "Đồ án thủy lực công trình",
+        "key": "CN509"
+    },
+    {
+        "name": "Đồ án nền móng công trình",
+        "key": "CN510"
+    },
+    {
+        "name": "Quản lý dự án xây dựng",
+        "key": "CN514"
+    },
+    {
+        "name": "Đồ án cấp thoát nước",
+        "key": "CN515"
+    },
+    {
+        "name": "Đồ án thiết kế hệ thống cơ điện tử",
+        "key": "CN516"
+    },
+    {
+        "name": "Đồ án kết cấu bê-tông",
+        "key": "CN521"
+    },
+    {
+        "name": "Đồ án kết cấu thép",
+        "key": "CN522"
+    },
+    {
+        "name": "Đồ án thi công",
+        "key": "CN523"
+    },
+    {
+        "name": "Thực tập ngành nghề - XDDD",
+        "key": "CN524"
+    },
+    {
+        "name": "Đồ án thiết kế vị trí và mặt bằng",
+        "key": "CN526"
+    },
+    {
+        "name": "Đồ án quản lý kỹ thuật bảo trì công nghiệp",
+        "key": "CN527"
+    },
+    {
+        "name": "Đồ án mô hình hóa và mô phỏng các hệ thống công nghiệp",
+        "key": "CN528"
+    },
+    {
+        "name": "Đồ án nền móng công trình - CĐ",
+        "key": "CN534"
+    },
+    {
+        "name": "Đồ án thi công cầu",
+        "key": "CN537"
+    },
+    {
+        "name": "Thực tập ngành nghề - CĐ",
+        "key": "CN539"
+    },
+    {
+        "name": "Sản xuất tinh gọn",
+        "key": "CN546"
+    },
+    {
+        "name": "Thực tế cơ sở - CNSH",
+        "key": "CS304"
+    },
+    {
+        "name": "Kỹ năng học đại học",
+        "key": "CT100"
+    },
+    {
+        "name": "Kiến trúc máy tính - Điện tử",
+        "key": "CT105"
+    },
+    {
+        "name": "Lập trình căn bản - Điện tử",
+        "key": "CT131"
+    },
+    {
+        "name": "Linh kiện điện tử",
+        "key": "CT132"
+    },
+    {
+        "name": "Mạch tương tự",
+        "key": "CT134"
+    },
+    {
+        "name": "Mạch số",
+        "key": "CT136"
+    },
+    {
+        "name": "Toán kỹ thuật",
+        "key": "CT138"
+    },
+    {
+        "name": "Lý thuyết mạch",
+        "key": "CT148"
+    },
+    {
+        "name": "Toán rời rạc",
+        "key": "CT172"
+    },
+    {
+        "name": "Thực tập thực tế",
+        "key": "CT215H"
+    },
+    {
+        "name": "Thực tập thực tế - THUD",
+        "key": "CT278"
+    },
+    {
+        "name": "Phương pháp Nghiên cứu khoa học",
+        "key": "CT311"
+    },
+    {
+        "name": "Lý thuyết điều khiển tự động",
+        "key": "CT377"
+    },
+    {
+        "name": "Thực tập thực tế",
+        "key": "CT415"
+    },
+    {
+        "name": "Thực tập thực tế - CNTT",
+        "key": "CT450"
+    },
+    {
+        "name": "Thực tập thực tế - HTTT",
+        "key": "CT451"
+    },
+    {
+        "name": "Thực tập thực tế - TT&MMT",
+        "key": "CT452"
+    },
+    {
+        "name": "Thực tập thực tế - KTPM",
+        "key": "CT454"
+    },
+    {
+        "name": "Thực tập thực tế - KHMT",
+        "key": "CT455"
+    },
+    {
+        "name": "Pháp văn căn bản 1 (*)",
+        "key": "FL001"
+    },
+    {
+        "name": "Pháp văn căn bản 2 (*)",
+        "key": "FL002"
+    },
+    {
+        "name": "Pháp văn căn bản 3 (*)",
+        "key": "FL003"
+    },
+    {
+        "name": "Thi đánh giá năng lực tiếng Anh",
+        "key": "FL100H"
+    },
+    {
+        "name": "Thực tế ngoài trường",
+        "key": "FL212H"
+    },
+    {
+        "name": "Thực tập ngoài trường",
+        "key": "FL213H"
+    },
+    {
+        "name": "Thực tập cơ sở ngành kinh doanh nông nghiệp",
+        "key": "HG152"
+    },
+    {
+        "name": "Thực tập chuyên ngành - KDNN",
+        "key": "HG257"
+    },
+    {
+        "name": "Thiết kế hệ thống số",
+        "key": "KC102"
+    },
+    {
+        "name": "Sức bền vật liệu 1 - XD",
+        "key": "KC104"
+    },
+    {
+        "name": "Sức bền vật liệu 2 - XD",
+        "key": "KC105"
+    },
+    {
+        "name": "Thống kê ứng dụng - XD",
+        "key": "KC107"
+    },
+    {
+        "name": "Tham quan định hướng ngành nghề",
+        "key": "KC114H"
+    },
+    {
+        "name": "Thực tập ngành nghề",
+        "key": "KC120H"
+    },
+    {
+        "name": "Tham quan định hướng ngành nghề - KTĐ",
+        "key": "KC166H"
+    },
+    {
+        "name": "Thống kê ứng dụng",
+        "key": "KC198"
+    },
+    {
+        "name": "Lập trình điều khiển trên thiết bị di động",
+        "key": "KC225"
+    },
+    {
+        "name": "Mố trụ cầu",
+        "key": "KC244"
+    },
+    {
+        "name": "Công trình xanh",
+        "key": "KC248"
+    },
+    {
+        "name": "Đồ án Thiết kế cầu bê tông",
+        "key": "KC268"
+    },
+    {
+        "name": "Kinh tế xây dựng",
+        "key": "KC269"
+    },
+    {
+        "name": "Đồ án Thiết kế cầu thép",
+        "key": "KC271"
+    },
+    {
+        "name": "Đồ Án Mố trụ cầu",
+        "key": "KC273"
+    },
+    {
+        "name": "Đồ án thiết kế đường ô tô",
+        "key": "KC274"
+    },
+    {
+        "name": "Tổ chức thi công",
+        "key": "KC282"
+    },
+    {
+        "name": "Thực tập ngành nghề - CKCB",
+        "key": "KC285"
+    },
+    {
+        "name": "Thực tập ngành nghề - KTVL",
+        "key": "KC295"
+    },
+    {
+        "name": "Pháp luật đại cương",
+        "key": "KL001"
+    },
+    {
+        "name": "Soạn thảo văn bản pháp luật",
+        "key": "KL114"
+    },
+    {
+        "name": "Phương pháp nghiên cứu khoa học - Luật",
+        "key": "KL115"
+    },
+    {
+        "name": "Luật hình sự quốc tế",
+        "key": "KL208"
+    },
+    {
+        "name": "Luật hiến pháp 2",
+        "key": "KL302"
+    },
+    {
+        "name": "Bảo đảm nghĩa vụ",
+        "key": "KL344"
+    },
+    {
+        "name": "Luật hợp đồng thông dụng",
+        "key": "KL404"
+    },
+    {
+        "name": "Thực hành nghề Luật",
+        "key": "KL406"
+    },
+    {
+        "name": "Tiểu luận tốt nghiệp - Luật",
+        "key": "KL411"
+    },
+    {
+        "name": "Kỹ năng mềm",
+        "key": "KN001"
+    },
+    {
+        "name": "Đổi mới sáng tạo và khởi nghiệp",
+        "key": "KN002"
+    },
+    {
+        "name": "Kỹ năng giao tiếp",
+        "key": "KT022"
+    },
+    {
+        "name": "Kinh tế vi mô 1",
+        "key": "KT101"
+    },
+    {
+        "name": "Kinh tế vĩ mô 1",
+        "key": "KT102"
+    },
+    {
+        "name": "Kinh tế vi mô",
+        "key": "KT103H"
+    },
+    {
+        "name": "Marketing căn bản",
+        "key": "KT104"
+    },
+    {
+        "name": "Nguyên lý thống kê kinh tế",
+        "key": "KT108"
+    },
+    {
+        "name": "Phương pháp nghiên cứu kinh tế",
+        "key": "KT109"
+    },
+    {
+        "name": "Thống kê trong kinh doanh",
+        "key": "KT110H"
+    },
+    {
+        "name": "Kinh tế lượng",
+        "key": "KT113"
+    },
+    {
+        "name": "Phương pháp tư duy và kỹ năng giải quyết vấn đề",
+        "key": "KT119"
+    },
+    {
+        "name": "Kiến tập ngành Quản trị kinh doanh",
+        "key": "KT122"
+    },
+    {
+        "name": "Kiến tập ngành Kế toán",
+        "key": "KT129"
+    },
+    {
+        "name": "Kiến tập ngành kiểm toán",
+        "key": "KT132"
+    },
+    {
+        "name": "Kiến tập ngành Kinh tế tài nguyên môi trường",
+        "key": "KT133"
+    },
+    {
+        "name": "Kiến tập ngành Kinh tế",
+        "key": "KT134"
+    },
+    {
+        "name": "Ứng dụng toán trong kinh doanh",
+        "key": "KT197"
+    },
+    {
+        "name": "Ứng dụng toán trong kinh doanh",
+        "key": "KT203"
+    },
+    {
+        "name": "Kiến tập ngành dịch vụ du lịch và lữ hành",
+        "key": "KT216"
+    },
+    {
+        "name": "Chuyên đề ngành",
+        "key": "KT228"
+    },
+    {
+        "name": "Kiến tập ngành kinh doanh thương mại",
+        "key": "KT229"
+    },
+    {
+        "name": "Chuyên đề ngành kiểm toán",
+        "key": "KT236"
+    },
+    {
+        "name": "Seminar kinh tế nông nghiệp",
+        "key": "KT241"
+    },
+    {
+        "name": "Kiến tập ngành Kinh tế nông nghiệp",
+        "key": "KT258"
+    },
+    {
+        "name": "Kiến tập Marketing",
+        "key": "KT259"
+    },
+    {
+        "name": "Tài chính công",
+        "key": "KT326"
+    },
+    {
+        "name": "Thị trường chứng khoán",
+        "key": "KT329"
+    },
+    {
+        "name": "Thương mại điện tử",
+        "key": "KT337"
+    },
+    {
+        "name": "Kỹ thuật đàm phán",
+        "key": "KT428"
+    },
+    {
+        "name": "Chuyên đề kế toán",
+        "key": "KT434"
+    },
+    {
+        "name": "Chuyên đề Kinh tế học",
+        "key": "KT438"
+    },
+    {
+        "name": "Chuyên đề Kinh tế nông nghiệp",
+        "key": "KT439"
+    },
+    {
+        "name": "Chuyên đề kinh tế tài nguyên môi trường",
+        "key": "KT440"
+    },
+    {
+        "name": "Chuyên đề Marketing",
+        "key": "KT441"
+    },
+    {
+        "name": "Chuyên đề Quản trị kinh doanh",
+        "key": "KT443"
+    },
+    {
+        "name": "Chuyên đề Kinh doanh thương mại",
+        "key": "KT444"
+    },
+    {
+        "name": "Tư tưởng Hồ Chí Minh",
+        "key": "ML006"
+    },
+    {
+        "name": "Logic học đại cương",
+        "key": "ML007"
+    },
+    {
+        "name": "Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin 1",
+        "key": "ML009"
+    },
+    {
+        "name": "Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin 2",
+        "key": "ML010"
+    },
+    {
+        "name": "Đường lối cách mạng của Đảng cộng sản Việt Nam",
+        "key": "ML011"
+    },
+    {
+        "name": "Triết học Mác - Lênin",
+        "key": "ML014"
+    },
+    {
+        "name": "Kinh tế chính trị Mác - Lênin",
+        "key": "ML016"
+    },
+    {
+        "name": "Chủ nghĩa xã hội khoa học",
+        "key": "ML018"
+    },
+    {
+        "name": "Lịch sử Đảng Cộng sản Việt Nam",
+        "key": "ML019"
+    },
+    {
+        "name": "Lịch sử Đảng Cộng sản Việt Nam",
+        "key": "ML020"
+    },
+    {
+        "name": "Tư tưởng Hồ Chí Minh",
+        "key": "ML021"
+    },
+    {
+        "name": "Mô hình hóa môi trường",
+        "key": "MT182"
+    },
+    {
+        "name": "Thực tập ngành nghề kỹ thuật môi trường",
+        "key": "MT235"
+    },
+    {
+        "name": "TT. Giáo trình môi trường",
+        "key": "MT322"
+    },
+    {
+        "name": "Thực tập ngành nghề - QLMT",
+        "key": "MT375"
+    },
+    {
+        "name": "Niên luận Môi trường",
+        "key": "MT388"
+    },
+    {
+        "name": "Thực tập giáo trình - KTMT",
+        "key": "MT424"
+    },
+    {
+        "name": "TT. Giáo trình quản lý tài nguyên và môi trường",
+        "key": "MT441"
+    },
+    {
+        "name": "Kỹ năng mềm",
+        "key": "NN100"
+    },
+    {
+        "name": "TT. Kỹ thuật thực phẩm (nhà máy)",
+        "key": "NN206"
+    },
+    {
+        "name": "TT. Công nghệ thực phẩm (nhà máy)",
+        "key": "NN213"
+    },
+    {
+        "name": "TT. Công nghệ thực phẩm (PTN)",
+        "key": "NN214"
+    },
+    {
+        "name": "TT. Chuyên ngành - QLĐĐ",
+        "key": "NN261"
+    },
+    {
+        "name": "Thực tập thực tế - Chăn nuôi",
+        "key": "NN314"
+    },
+    {
+        "name": "Thực hành Thú y cơ sở",
+        "key": "NN348"
+    },
+    {
+        "name": "Thực tập cơ sở - KHCT",
+        "key": "NN391"
+    },
+    {
+        "name": "Thực tập giáo trình-Chăn nuôi",
+        "key": "NN393"
+    },
+    {
+        "name": "Rèn nghề - QLĐĐ",
+        "key": "NN502"
+    },
+    {
+        "name": "Tiểu luận tốt nghiêp - CNTY",
+        "key": "NN556"
+    },
+    {
+        "name": "Thực tập giáo trình - RHQ&CQ",
+        "key": "NN566"
+    },
+    {
+        "name": "Thực tập kỹ thuật thực phẩm (PTN)",
+        "key": "NS113"
+    },
+    {
+        "name": "Thực tập thiết bị chế biến thực phẩm (nhà máy)",
+        "key": "NS138"
+    },
+    {
+        "name": "Phương pháp nghiên cứu khoa học nông nghiệp - TY",
+        "key": "NS197"
+    },
+    {
+        "name": "Thực tập hoạt động sau thu hoạch (ngoài Trường)",
+        "key": "NS220"
+    },
+    {
+        "name": "Thực tập nhận thức ngành nghề - ngoài trường",
+        "key": "NS287"
+    },
+    {
+        "name": "Thực tập cơ sở - BVTV",
+        "key": "NS305"
+    },
+    {
+        "name": "Kỹ năng giao tiếp trong nông nghiệp",
+        "key": "NS313"
+    },
+    {
+        "name": "Niên luận - CNTY",
+        "key": "NS345"
+    },
+    {
+        "name": "Thực hành trang trại",
+        "key": "NS350"
+    },
+    {
+        "name": "Thực hành bệnh xá",
+        "key": "NS351"
+    },
+    {
+        "name": "Niên luận - TY",
+        "key": "NS354"
+    },
+    {
+        "name": "Thực tập cơ sở SHƯD",
+        "key": "NS378"
+    },
+    {
+        "name": "Thực tập kỹ thuật sau thu hoạch (Nhà máy)",
+        "key": "NS390"
+    },
+    {
+        "name": "Thực tập cơ sở CNSTH (nhà máy)",
+        "key": "NS441"
+    },
+    {
+        "name": "Thực tập thực tế 1",
+        "key": "NS444"
+    },
+    {
+        "name": "Thực tập thực tế 2",
+        "key": "NS445"
+    },
+    {
+        "name": "Hoạt động thực tiễn",
+        "key": "PD203"
+    },
+    {
+        "name": "Giáo dục quốc phòng và An ninh 1 (*)",
+        "key": "QP010"
+    },
+    {
+        "name": "Giáo dục quốc phòng và An ninh 2 (*)",
+        "key": "QP011"
+    },
+    {
+        "name": "Giáo dục quốc phòng và An ninh 3 (*)",
+        "key": "QP012"
+    },
+    {
+        "name": "Giáo dục quốc phòng và An ninh 4 (*)",
+        "key": "QP013"
+    },
+    {
+        "name": "Quản lý hành chính nhà nước và quản lý ngành giáo dục và đào tạo",
+        "key": "SG011"
+    },
+    {
+        "name": "Hình học sơ cấp 2",
+        "key": "SG237"
+    },
+    {
+        "name": "Tâm lý học đại cương",
+        "key": "SP009"
+    },
+    {
+        "name": "Tâm lý học sư phạm",
+        "key": "SP010"
+    },
+    {
+        "name": "Lịch sử Việt Nam đại cương",
+        "key": "SP023"
+    },
+    {
+        "name": "Đại cương về Trái Đất",
+        "key": "SP075"
+    },
+    {
+        "name": "Anh văn chuyên ngành sinh học",
+        "key": "SP184"
+    },
+    {
+        "name": "Lịch sử quan hệ quốc tế",
+        "key": "SP236"
+    },
+    {
+        "name": "Nói trước công chúng",
+        "key": "SP466"
+    },
+    {
+        "name": "Điền kinh 1 (*)",
+        "key": "TC001"
+    },
+    {
+        "name": "Điền kinh 2 (*)",
+        "key": "TC002"
+    },
+    {
+        "name": "Taekwondo 1 (*)",
+        "key": "TC003"
+    },
+    {
+        "name": "Taekwondo 2 (*)",
+        "key": "TC004"
+    },
+    {
+        "name": "Bóng chuyền 1 (*)",
+        "key": "TC005"
+    },
+    {
+        "name": "Bóng chuyền 2 (*)",
+        "key": "TC006"
+    },
+    {
+        "name": "Bóng đá 1 (*)",
+        "key": "TC007"
+    },
+    {
+        "name": "Bóng đá 2 (*)",
+        "key": "TC008"
+    },
+    {
+        "name": "Bóng bàn 2 (*)",
+        "key": "TC010"
+    },
+    {
+        "name": "Cầu lông 1 (*)",
+        "key": "TC011"
+    },
+    {
+        "name": "Cầu lông 2 (*)",
+        "key": "TC012"
+    },
+    {
+        "name": "Bơi lội (*)",
+        "key": "TC013"
+    },
+    {
+        "name": "Thể dục nhịp điệu 1 (*)",
+        "key": "TC016"
+    },
+    {
+        "name": "Thể dục nhịp điệu 2 (*)",
+        "key": "TC017"
+    },
+    {
+        "name": "Thể dục nhịp điệu 3 (*)",
+        "key": "TC018"
+    },
+    {
+        "name": "Taekwondo 3 (*)",
+        "key": "TC019"
+    },
+    {
+        "name": "Bóng chuyền 3 (*)",
+        "key": "TC020"
+    },
+    {
+        "name": "Bóng đá 3 (*)",
+        "key": "TC021"
+    },
+    {
+        "name": "Bóng bàn 3 (*)",
+        "key": "TC022"
+    },
+    {
+        "name": "Cầu lông 3 (*)",
+        "key": "TC023"
+    },
+    {
+        "name": "Điền kinh 3 (*)",
+        "key": "TC024"
+    },
+    {
+        "name": "Cờ vua 1 (*)",
+        "key": "TC025"
+    },
+    {
+        "name": "Cờ vua 2 (*)",
+        "key": "TC026"
+    },
+    {
+        "name": "Cờ vua 3 (*)",
+        "key": "TC027"
+    },
+    {
+        "name": "Bóng rổ 1 (*)",
+        "key": "TC028"
+    },
+    {
+        "name": "Bóng rổ 2 (*)",
+        "key": "TC029"
+    },
+    {
+        "name": "Bóng rổ 3 (*)",
+        "key": "TC030"
+    },
+    {
+        "name": "Vi - Tích phân A1",
+        "key": "TN001"
+    },
+    {
+        "name": "Vi - Tích phân A2",
+        "key": "TN002"
+    },
+    {
+        "name": "Toán cao cấp A",
+        "key": "TN006"
+    },
+    {
+        "name": "Toán cao cấp C",
+        "key": "TN009"
+    },
+    {
+        "name": "Xác suất thống kê",
+        "key": "TN010"
+    },
+    {
+        "name": "Đại số tuyến tính và hình học",
+        "key": "TN012"
+    },
+    {
+        "name": "Đại số tuyến tính",
+        "key": "TN013"
+    },
+    {
+        "name": "Cơ và nhiệt đại cương",
+        "key": "TN014"
+    },
+    {
+        "name": "Hóa học đại cương",
+        "key": "TN019"
+    },
+    {
+        "name": "TT. Hóa học đại cương",
+        "key": "TN020"
+    },
+    {
+        "name": "Hóa vô cơ và hữu cơ đại cương",
+        "key": "TN021"
+    },
+    {
+        "name": "Hóa phân tích đại cương",
+        "key": "TN023"
+    },
+    {
+        "name": "Sinh học đại cương A1",
+        "key": "TN025"
+    },
+    {
+        "name": "Sinh học đại cương A2",
+        "key": "TN028"
+    },
+    {
+        "name": "Tin học căn bản",
+        "key": "TN033"
+    },
+    {
+        "name": "Tin học căn bản",
+        "key": "TN033H"
+    },
+    {
+        "name": "TT. Tin học căn bản",
+        "key": "TN034"
+    },
+    {
+        "name": "TT. Tin học căn bản",
+        "key": "TN034H"
+    },
+    {
+        "name": "Microsoft Access",
+        "key": "TN037"
+    },
+    {
+        "name": "TT. Microsoft Access",
+        "key": "TN038"
+    },
+    {
+        "name": "Hóa học đại cương",
+        "key": "TN039"
+    },
+    {
+        "name": "Sinh học đại cương",
+        "key": "TN042"
+    },
+    {
+        "name": "Xác suất thống kê B",
+        "key": "TN044"
+    },
+    {
+        "name": "Vật lý đại cương",
+        "key": "TN048"
+    },
+    {
+        "name": "TT. Vật lý đại cương",
+        "key": "TN049"
+    },
+    {
+        "name": "Toán cao cấp B",
+        "key": "TN059"
+    },
+    {
+        "name": "Vi - Tích phân",
+        "key": "TN099"
+    },
+    {
+        "name": "Phương pháp Nghiên cứu khoa học - TTK",
+        "key": "TN100"
+    },
+    {
+        "name": "Hóa lý 1",
+        "key": "TN108"
+    },
+    {
+        "name": "Hóa Hữu cơ 1",
+        "key": "TN111"
+    },
+    {
+        "name": "Thống kê sinh học",
+        "key": "TN128"
+    },
+    {
+        "name": "TT. Thống kê sinh học",
+        "key": "TN129"
+    },
+    {
+        "name": "Hệ thống mạng máy tính căn bản",
+        "key": "TN205"
+    },
+    {
+        "name": "Hóa học Dược liệu",
+        "key": "TN243"
+    },
+    {
+        "name": "Hóa hữu cơ -2",
+        "key": "TN249"
+    },
+    {
+        "name": "TT. Quang học",
+        "key": "TN264"
+    },
+    {
+        "name": "Thực tập thực tế - VLKT",
+        "key": "TN293"
+    },
+    {
+        "name": "Các phương pháp thống kê hóa học",
+        "key": "TN323"
+    },
+    {
+        "name": "Xác suất nâng cao",
+        "key": "TN370"
+    },
+    {
+        "name": "TT. Tổng hợp Hóa dược",
+        "key": "TN381"
+    },
+    {
+        "name": "Thực tập và Thực tế - Hóa dược",
+        "key": "TN385"
+    },
+    {
+        "name": "Phản Ứng độc hại của thuốc",
+        "key": "TN390"
+    },
+    {
+        "name": "Thống kê nhiều chiều",
+        "key": "TN441"
+    },
+    {
+        "name": "Thống kê ứng dụng trong sinh học",
+        "key": "TN444"
+    },
+    {
+        "name": "Thực tập giáo trình cơ sở nuôi trồng thủy sản",
+        "key": "TS156"
+    },
+    {
+        "name": "Thực tập thực tế - NTTS",
+        "key": "TS200"
+    },
+    {
+        "name": "Thực tập giáo trình công nghệ chế biến thủy sản 2",
+        "key": "TS220"
+    },
+    {
+        "name": "Thực tập thực tế - QLNLTS",
+        "key": "TS280"
+    },
+    {
+        "name": "Thực tập thực tế - BHTS",
+        "key": "TS284"
+    },
+    {
+        "name": "Thực tập thông tin thư viện",
+        "key": "TV236"
+    },
+    {
+        "name": "Tiểu luận tốt nghiệp - TT&TV",
+        "key": "TV322"
+    },
+    {
+        "name": "Pháp văn căn bản 2 (*)",
+        "key": "XH005"
+    },
+    {
+        "name": "Pháp văn căn bản 3 (*)",
+        "key": "XH006"
+    },
+    {
+        "name": "Cơ sở văn hóa Việt Nam",
+        "key": "XH011"
+    },
+    {
+        "name": "Tiếng Việt thực hành",
+        "key": "XH012"
+    },
+    {
+        "name": "Văn bản và lưu trữ học đại cương",
+        "key": "XH014"
+    },
+    {
+        "name": "Mỹ học đại cương",
+        "key": "XH016"
+    },
+    {
+        "name": "Anh văn căn bản 1 (*)",
+        "key": "XH023"
+    },
+    {
+        "name": "Anh văn căn bản 2 (*)",
+        "key": "XH024"
+    },
+    {
+        "name": "Anh văn căn bản 3 (*)",
+        "key": "XH025"
+    },
+    {
+        "name": "Xã hội học đại cương",
+        "key": "XH028"
+    },
+    {
+        "name": "Niên luận - Ngữ văn",
+        "key": "XH191"
+    },
+    {
+        "name": "Kỹ năng giao tiếp xã hội",
+        "key": "XH193"
+    },
+    {
+        "name": "Bản đồ du lịch",
+        "key": "XH386"
+    },
+    {
+        "name": "Du lịch sinh thái",
+        "key": "XH415"
+    },
+    {
+        "name": "Ngữ dụng học - Anh văn",
+        "key": "XH454"
+    },
+    {
+        "name": "Ngữ nghĩa học và ngữ dụng học",
+        "key": "XH536"
+    },
+    {
+        "name": "Ngôn ngữ học đối chiếu",
+        "key": "XH537"
+    },
+    {
+        "name": "Kỹ thuật nhiếp ảnh và quay Video",
+        "key": "XN110"
+    },
+    {
+        "name": "Nghiệp vụ hướng dẫn du lịch",
+        "key": "XN308"
+    },
+    {
+        "name": "Thực tập nghiệp vụ - Du lịch",
+        "key": "XN311"
+    },
+    {
+        "name": "Chuyên đề tiếng Anh định hướng việc làm",
+        "key": "XN331"
+    },
+    {
+        "name": "Thực tế ngoài trường - Anh văn",
+        "key": "XN332"
+    },
+    {
+        "name": "Thực tập ngoài trường - Anh văn",
+        "key": "XN333"
+    },
+    {
+        "name": "Thực tập nghề cuối khóa",
+        "key": "XN368"
+    }
+]
