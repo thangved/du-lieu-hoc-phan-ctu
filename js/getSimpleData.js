@@ -22,7 +22,8 @@ const index = (path) => {
                     courses.push(item.key)
                     Courses.push({
                         name: item.name,
-                        key: item.key
+                        key: item.key,
+                        weight: item.weight,
                     })
                 }
             })

@@ -4,27 +4,28 @@
 
 ## API LẤY THÔNG TIN CƠ BẢN
 
-### Request:
+### Request
 
 ```
 https://minhthangdev-server.herokuapp.com/api/courses/search/
 ```
 
-#### Tham số:
+#### Tham số
 
 - Params: "Tên hoặc mã học phần."
 
-##### VD:
+##### VD
 
-https://minhthangdev-server.herokuapp.com/api/courses/search/K
+<https://minhthangdev-server.herokuapp.com/api/courses/search/K>
 
-### Response:
+### Response
 
 ```
 [
   {
     "name": "Kỹ năng học đại học",
-    "key": "CT100"
+    "key": "CT100",
+    "weight": 2
   },
   //..........
 ]
@@ -32,22 +33,20 @@ https://minhthangdev-server.herokuapp.com/api/courses/search/K
 
 ## API LẤY TOÀN BỘ THÔNG TIN CỦA LỚP HỌC PHẦN
 
-### Request:
+### Request
 
-```
-https://minhthangdev-server.herokuapp.com/api/courses/key/
-```
+<https://minhthangdev-server.herokuapp.com/api/courses/key/>
 
-#### Tham số:
+#### Tham số
 
 - Params: "Mã học phần chính xác!"
 - Query: y="năm học", n="học kì"
 
-##### VD:
+##### VD
 
-https://minhthangdev-server.herokuapp.com/api/courses/key/CT100?y=20212022&n=1
+<https://minhthangdev-server.herokuapp.com/api/courses/key/CT100?y=20212022&n=1>
 
-### Response:
+### Response
 
 ```
 [
